@@ -1,4 +1,7 @@
-# Atomic.Codes website
+# atomic.Codes website
+<a href="atomic.codes"> Website </a>
+
+<a href="https://www.figma.com/file/PMWag2CLGhJxN0Cl703B1z1O/Atomic-Codes">Figma - Design Files </a>
 
 <h2>V 0.1</h2> 
 
